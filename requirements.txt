@@ -1,5 +1,6 @@
+opencv-python
 streamlit
 torch
-opencv-python
 numpy
 Pillow
+pycuda
