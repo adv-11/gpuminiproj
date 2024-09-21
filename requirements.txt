@@ -3,4 +3,3 @@ streamlit
 torch
 numpy
 Pillow
-pycuda
